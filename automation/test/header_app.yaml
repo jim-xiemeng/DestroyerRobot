@@ -1,0 +1,12 @@
+name: xiemeng
+age: 33
+spouse:
+  name: wenwen
+  age: 31
+
+children:
+  - name: lieyi
+    age : 0.5
+
+  - name: duola
+    age : 0
